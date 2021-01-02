@@ -1,3 +1,3 @@
 # codeforces_api_react
-Live at: https://yd02y.csb.app/ <br/>
-Code and Live at: https://codesandbox.io/s/codeforcesapireact-yd02y
+Live at: https://riodc.csb.app/ <br/>
+Code and Live at: https://codesandbox.io/s/trusting-vaughan-riodc
